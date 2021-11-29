@@ -76,7 +76,7 @@
     <!-- page-body-wrapper ends -->
   </div>
   </form>
-  <form method="POST" action="{{ route('register') }}"> <p>register</p>
+  <form method="POST" action="{{ route('register') }}">
     </form>
 
 

@@ -1,5 +1,5 @@
 <ul class="nav">
-<li class="nav-item nav-profile">
+          <li class="nav-item nav-profile">
             <div class="nav-link">
               <div class="user-wrapper">
                 <div class="profile-image">
